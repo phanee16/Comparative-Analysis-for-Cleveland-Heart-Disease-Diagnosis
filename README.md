@@ -1,4 +1,4 @@
-# Comparative Analysis for Cleveland Heart Disease Diagnosis
+# Predictive Modeling for Cleveland Heart Disease Diagnosis
 ![image](https://github.com/phanee16/Comparative-Analysis-for-Cleveland-Heart-Disease-Diagnosis/assets/47351536/9160283b-81d9-4d50-a1a1-224f5e693e3f)
 
 Utilized machine learning algorithms, including Neural Network, CART, and Random Forest, to analyze the Cleveland heart disease dataset.
